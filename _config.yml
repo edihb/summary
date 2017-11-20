@@ -1,1 +1,4 @@
+footer-links:
+  github: https://github.com/edihb
+baseurl: ""
 theme: jekyll-theme-cayman
